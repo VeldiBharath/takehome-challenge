@@ -90,7 +90,7 @@ The service was built using:
 
 ## GitHub Repository
 
-https://github.com/YOUR_USERNAME/takehome-challenge
+https://github.com/VeldiBharath/takehome-challenge
 
 ## Google Cloud Run URL
 
@@ -98,4 +98,4 @@ https://python-executor-755076272405.us-central1.run.app
 
 ## Time to complete
 
-Approximately [YOUR_TIME_HERE] hours to implement and test the solution.
+Approximately 3 hours to implement and test the solution.
